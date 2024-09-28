@@ -115,4 +115,5 @@ if __name__ == "__main__":
 ![image](https://github.com/user-attachments/assets/5cd8fe0f-ad6d-4209-9f56-a5c248f0f045)
 
 ### Result:
-Thus the experiment is successfully executed.
+Thus, Implementation of Information Retrieval Using Boolean Model in Python is successfully completed.
+
